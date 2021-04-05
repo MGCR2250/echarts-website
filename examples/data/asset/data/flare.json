@@ -1,8 +1,8 @@
 {
  "name": "flare",
- "children": [
-  {
-   "name": "analytics",
+ "children": [     
+  {  
+   "name": "四川",
    "children": [
     {
      "name": "cluster",
